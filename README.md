@@ -25,7 +25,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;\
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat)&nbsp;
-![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp;
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;\
 ![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)\
@@ -55,6 +54,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;\
+![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp;
 ![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)&nbsp;\
 ![TDD](https://img.shields.io/badge/TEST%20DD-E34F26.svg?&style=flat&logo=tdd&logoColor=white)&nbsp;
