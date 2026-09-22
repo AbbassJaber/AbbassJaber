@@ -1,7 +1,7 @@
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Passionate with problem-solving and solution architecture.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2019 with 6+ years of experience in enterprise wide software development.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2019 with 7+ years of experience in enterprise wide software development.\
 &nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Lebanon.
 
 <p align="center">
